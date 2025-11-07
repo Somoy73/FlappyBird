@@ -1,8 +1,10 @@
-I chose FlappyBird out of 100s retro games out there because I was very pressed on time haha.
+### FLAPPY BIRD
+
+I chose FlappyBird out of 100s of retro games out there because I was very pressed on time haha.
 Jokes aside,
 
 It is true I chose the game because I was tight on time due to some recent research works. 
-However, I believe this game shows how a simple idea can make a lasting impact. It does not always need to be too unique or overengineered.
+However, I believe this game shows how a simple idea can make a lasting impact. Creating Fun - does not always need to be too unique or overengineered.
 Also, I have an idea for a sidescrolling game with a similar theme (ofc a bit more complex), and I wanted to transition from this to my idea eventually.
 
 
@@ -10,4 +12,5 @@ The game although simple uses some of the key ideas of making games in Unity.
 
 - The Player is the 'Flappy Bird' 
 - Prefabs: The obstacles (pipes) are prefab. The scoring zone is also part of the same prefab. 
-- 
+- Scene Transitions
+- There is no direct Level. As the player scores higher the speed of the pipes spawning gets faster. That's it.
